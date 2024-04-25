@@ -5,9 +5,6 @@ This project demonstrates sentiment analysis in Python using two different techn
 1. **VADER (Valence Aware Dictionary and sEntiment Reasoner) - Bag of words approach**
 2. **Roberta Pretrained Model from Huggingface Pipeline**
 
-## Tutorial
-
-This notebook is part of a tutorial available on [YouTube](tutorial_link_here). Check it out for a detailed walkthrough.
 
 ## Steps Covered in the Notebook:
 
